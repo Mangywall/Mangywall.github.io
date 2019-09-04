@@ -1,0 +1,104 @@
+#head {
+    
+    font: serif;
+    color: black;
+    border-bottom: 10px double white;
+    border-left: 10px double white;
+    border-right: 10px double white;
+    border-top: 10px double white;
+    border-top-left-radius: 0.2em;
+    border-top-right-radius: 0.2em;
+    height: 320px;
+    text-align: center;
+    background-image: url("https://res.cloudinary.com/mangywall/image/upload/v1567097610/back1_mxnnwg.jpg");
+    background-repeat: repeat;
+    
+    
+}
+
+#left {
+    float: left;
+    width: 72.93%;
+    text-align: justify;
+    border-left: 10px double white;
+    border-bottom: 0.1px solid whitesmoke;
+    min-height: 43.7em;
+    
+}
+
+#right {
+    text-align: right;
+    border-right: 10px double white;
+    border-left: 0.5px dotted white;
+    border-bottom: 0.1px solid whitesmoke;
+    float: left;
+    width: 25.5%;
+    min-height: 43.7em;
+}
+
+#footer {
+    text-align: justify;
+    border-right: 10px double white;
+    border-left: 10px double white;
+    border-bottom: 10px double white;
+    float: left;
+    width: 98.5%;
+    min-height: 10em;
+}
+
+body {
+    font-size: 20pt;
+    background: rgb(255, 255, 255);
+    color:white;
+    background-image: url("https://res.cloudinary.com/mangywall/image/upload/v1567097610/back1_mxnnwg.jpg");
+    background-repeat: repeat;
+    
+    
+}
+
+#h1 {
+    vertical-align: bottom;
+}
+
+#h2 { 
+    font-size: 24pt;
+    font-family: cambria;
+    font-style: italic;
+    text-decoration: underline;
+    color: lightblue;
+
+}
+
+#sub-heading {
+    text-decoration: underline;
+    font-family: calibri;
+}
+
+#text {
+    font-size: 15pt;
+    font-family: calibri;
+}
+
+.adrress {
+    font-size: 13pt;
+    font-family: "cursive";
+
+}
+
+.skills {
+    font-size: 13pt;
+    font-family: "arial narrow";
+}
+  
+#mytitles {
+    font-family: cursive;
+    font-size: 20pt;
+    color: white;
+}
+
+#form {
+    border: 2px solid grey;
+    border-radius: 4px;
+    background-color: pink
+
+}
